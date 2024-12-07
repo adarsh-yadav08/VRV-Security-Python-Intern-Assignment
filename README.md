@@ -17,7 +17,7 @@ Assignments - VRV Security
   - `Failed Login Count`: The total number of failed login attempts from the IP address.
 
 ---
-### [**Log Analysis Results**](https://github.com/Dharunkumar-S/Python-Intern/blob/main/log_analysis_results.csv)
+### [**Log Analysis Results**](https://github.com/adarsh-yadav08/VRV-Security-Python-Intern-Assignment/blob/main/log_analysis_results.csv)
 1. **Count Requests per IP Address**:
    
     ```bash
@@ -44,7 +44,7 @@ Assignments - VRV Security
         ```
 ---
 
-###  [**Log_Analysis.py**](https://github.com/Dharunkumar-S/Python-Intern/blob/main/log_analysis.py)
+###  [**Log_Analysis.py**](https://github.com/adarsh-yadav08/VRV-Security-Python-Intern-Assignment/blob/main/log_analysis.py)
 
 ```python
 import re
@@ -164,7 +164,7 @@ Results saved to log_analysis_results.csv
 ```
 ---
 
-### [**Sample.log**](https://github.com/Dharunkumar-S/Python-Intern/blob/main/sample.log)
+### [**Sample.log**](https://github.com/adarsh-yadav08/VRV-Security-Python-Intern-Assignment/blob/main/sample.log)
 
 ```bash
 192.168.1.1 - - [03/Dec/2024:10:12:34 +0000] "GET /home HTTP/1.1" 200 512
